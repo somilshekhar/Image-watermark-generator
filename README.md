@@ -26,7 +26,7 @@ Save the watermarked image to a specific folder inside your device’s Pictures 
 2. Enter the watermark text in the input field.  
 3. Tap "Apply Watermark" to overlay the text on the image.  
 4. Choose a folder name or use the default.  
-5. Save the watermarked image to the gallery.
+5. Save the watermarked image to the gallery. The code is well commented so user can get a better clarification about the codes.
 
 ---
 
